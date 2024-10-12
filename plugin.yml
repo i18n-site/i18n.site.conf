@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=../.schema/plugin.yml
+
+npm: |-
+  @8p/page-blog
+  @8p/page-doc
+  @8p/page-md
+  @8p/page-toc
+  @8p/full
+  @8p/lang
+  @8p/qy
